@@ -1,3 +1,6 @@
+/*
+HackerRank Task Explanation Page : https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+*/
 'use strict';
 
 const fs = require('fs');
